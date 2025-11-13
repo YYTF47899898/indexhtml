@@ -1,6 +1,3 @@
-# indexhtml
-A library management system
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
